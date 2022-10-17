@@ -12,7 +12,7 @@ N/A
 
 To get started the user will just need to click the Generate Password button which will then present them with a prompt for the wanted length of password. This is limited anywhere from 8 to 128 characters and if the selection made is not within that range it will alert the user to try again. Once a proper selection is made they will be prompted a few more times to decide the desired characters that will make up the contents of the password, selecting ok will include the prompted character, selecting cancel will leave it out. Note that if all character selections are denied it will alert the user to make at least one selection. Once this is completed the generated password will appear within the text box. If an alternative password is desired they may click the generate password button again and repeat the process.
 
-[Deployed link]()
+[Deployed link](https://jstreeter0.github.io/Random-Password-Creator/)
 
 ![image](https://user-images.githubusercontent.com/110742112/196066773-08f8e3c1-effd-44df-84f2-e3ff1df9ff04.png)
 
